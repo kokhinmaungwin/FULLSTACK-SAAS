@@ -24,7 +24,7 @@ Monorepo architecture with frontend, backend, deployment config, and utilities.
 ---
 
 ## 🧱 Project Structure
-
+```text
 FULLSTACK-SAAS/
 ├── client/          Frontend dashboard UI 
 ├── server/          Backend API 
@@ -36,7 +36,7 @@ FULLSTACK-SAAS/
 ‎├── .env.example     Environment template 
 ‎├── .gitignore 
 ‎└── README.md
-
+```
 ---
 
 ## 🧰 Tech Stack
@@ -77,7 +77,11 @@ Optional (production):
 Create `.env` file in root or server folder.
 
 Example:
-PORT=3000 MONGO_URI=mongodb://localhost:27017/saas JWT_SECRET=your_secret_key EMAIL_USER=your_email EMAIL_PASS=your_password
+- PORT=3000
+- MONGO_URI=mongodb://localhost:27017/
+- saas JWT_SECRET=your_secret_key
+- EMAIL_USER=your_email
+- EMAIL_PASS=your_password
 
 ---
 
