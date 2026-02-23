@@ -33,7 +33,6 @@ FULLSTACK-SAAS/
 ├── docker/          Container configuration 
 ‎├── nginx/           Reverse proxy config 
 ├── tests/           API test files 
-‎│ 
 ‎├── .env.example     Environment template 
 ‎├── .gitignore 
 ‎└── README.md
