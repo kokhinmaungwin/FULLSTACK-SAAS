@@ -1,4 +1,5 @@
 Before that — tech stack example: backend API + database + container + reverse proxy style architecture (commonly used with GitHub repos, containerized by Docker, proxied via NGINX, Inc., and stored in MongoDB).
+
 ---
 
 # FULLSTACK SAAS
